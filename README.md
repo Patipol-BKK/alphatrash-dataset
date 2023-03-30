@@ -47,5 +47,5 @@ This command redistribute images within the current trash_dataset into 80% `trai
 python formatter.py trash_dataset_2 0.8 0.1 0.1
 ```
 
-## Future Contribution and Contact Information
+## Future Contributions and Contact Information
 If you are interested in contributing to this dataset or have any inquiries, please feel free to contact me at [patipol.ti@gmail.com](patipol.ti@gmail.com).
